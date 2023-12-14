@@ -1,4 +1,4 @@
-## Olá sou o Gustavo Franco!
+## Olá, sou o Gustavo Franco!
 <div align="center">
 <a href="https://github.com/thanatusx/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanatusx&show_icons=true\&theme=ocean_dark" />
